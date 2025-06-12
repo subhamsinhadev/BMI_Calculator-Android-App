@@ -84,6 +84,8 @@ This project was created to:
 5. Push: `git push origin feature-name`  
 6. Create a Pull Request  
 
+## ✍️ Author
+Developed By Subham Kumar Sinha.
 
 ## 📄 License
 
