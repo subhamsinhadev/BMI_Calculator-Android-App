@@ -98,7 +98,7 @@ android:textSize="15dp"
             android:onClick="api"
             android:layout_weight="1.0"
 
-            android:text="API Link" />
+            android:text="API Docs" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/source"

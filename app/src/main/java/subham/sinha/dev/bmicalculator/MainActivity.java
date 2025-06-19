@@ -52,7 +52,7 @@ AppCompatImageView img;
         img=findViewById(R.id.img);
 
         GradientDrawable gd=new GradientDrawable();
-        gd.setStroke(3, Color.CYAN);
+        gd.setStroke(3,null);
         gd.setCornerRadius(20);
         result.setBackgroundDrawable(gd);
         calc.setOnClickListener(new View.OnClickListener() {
